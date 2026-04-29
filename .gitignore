@@ -1,0 +1,18 @@
+# Python environment
+venv/
+.env
+
+# Django / Python artifacts
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Output folder
+Output/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
